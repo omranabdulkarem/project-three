@@ -71,7 +71,7 @@ ul {
 }
 
 .dots {
-    background-image: url(/image/dots.png);
+    background-image: url(image/dots.png);
     width: 204px;
     height: 186px;
     background-repeat: no-repeat;
@@ -1465,7 +1465,7 @@ ul {
     padding-top: var(--main-padding-top);
     padding-bottom: var(--main-padding-bottom);
     position: relative;
-    background-image: url(/image/stats.jpg);
+    background-image: url(image/stats.jpg);
     background-size: cover;
     min-height: 300px;
 }
@@ -1557,7 +1557,7 @@ ul {
 }
 
 .discount .image {
-    background-image: url(/image/discount-background1\ \(1\).jpg);
+    background-image: url(image/discount-background1\ \(1\).jpg);
     background-size: cover;
     color: white;
     flex-basis: 50%;
@@ -1894,11 +1894,11 @@ ul {
 
     0%,
     100% {
-        background-image: url(/image/discount-background1\ \(1\).jpg);
+        background-image: url(image/discount-background1\ \(1\).jpg);
     }
 
     50% {
-        background-image: url(/image/discount-background1\ \(2\).jpg);
+        background-image: url(image/discount-background1\ \(2\).jpg);
     }
 }
 
